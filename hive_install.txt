@@ -1,0 +1,68 @@
+    1  ls
+    2  cd hive
+    3  rm hive
+    4  ls -l
+    5  nano .bashrc
+    6  mv apache-hive-1.2.1-bin/ hive
+    7  ls
+    8  . .bashrc
+    9  vd hive
+   10  ls
+   11  cd hive
+   12  ls
+   13  cd bin
+   14  lsd
+   15  ls
+   16  nano hive-config.sh 
+   17  cd
+   18  start-all.sh
+   19  JPS
+   20  jps
+   21  hadoop fs -mkdir /user/hive/warehouse
+   22  hdfs fs -mkdir /user/hive/warehouse
+   23  hadoop fs -mkdir /user
+   24  hadoop fs -mkdir /user/hive
+   25  hadoop fs -mkdir /user/hive/warehouse
+   26  hadoop fs -chmod g+w /usr/hive/warehouse
+   27  hadoop fs -chmod g+w /user/hive/warehouse
+   28  hive
+   29  cd hive
+   30  ls
+   31  cd bin
+   32  ls
+   33  cd
+   34  cd /hive/
+   35  cd /hive
+   36  cd hive
+   37  ls
+   38  cd conf
+   39  ls
+   40  cd ..
+   41  ls
+   42  cd bin
+   43  ls
+   44  cd hive
+   45  cd ext
+   46  ls
+   47  cd ..
+   48  ls
+   49  cd ..
+   50  cd conf/
+   51  lks
+   52  nano hive-site.xml
+   53  cd
+   54  nano sample.sql
+   55  nano input_to_product.txt
+   56  cd hive
+   57  cd
+   58  ls
+   59  hive -f /home/hduser/sample.sql
+   60  hive -f sample.sql
+   61  nano hive-site.xml
+   62  cd hive
+   63  ls
+   64  cd conf/
+   65  ls
+   66  nano hive-site.xml 
+   67  cd
+   68  history >> hive_install.txt
