@@ -1,0 +1,25 @@
+    1  igconfig
+    2  ifconfig
+    3  raghav 
+    4  clear
+    5  ifconfig
+    6  ls
+    7  cd Downloads/
+    8  ls
+    9  cd ..
+   10  ls -l
+   11  ifconfig
+   12  ifcongig
+   13  ifconfig
+   14  ping 8.8.8.8
+   15  udo apt-get install libqt5core5a libqt5gui5 libqt5widgets5 libqt5network5 libqt5printsupport5 libqt5multimedia5 libqt5multimedia5-plugins libxcb-screensaver0
+   16  ls
+   17  su - hadoop
+   18  history >> hive1_install.txt
+
+
+
+
+https://dzone.com/articles/how-configure-mysql-metastore
+http://doctuts.readthedocs.io/en/latest/hive.html
+
